@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -fopenmp -g  -Wl,--enable-auto-import  CMakeFiles/Cnn3.dir/main.cpp.o CMakeFiles/Cnn3.dir/full_cnn.cpp.o CMakeFiles/Cnn3.dir/face_binary_cls.cpp.o  -o Cnn3.exe -Wl,--out-implib,libCnn3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
